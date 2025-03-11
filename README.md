@@ -47,7 +47,7 @@ R 3 2\
 1 1 r\
 4 2 r
 
-![Example Board](images/board_example.png)
+<img src="images/board_example.png" alt="Example Board" width="300"/>
 
 ## Output Format
 
